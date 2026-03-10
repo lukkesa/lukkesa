@@ -59,18 +59,4 @@ From Minecraft redstone contraptions to Arduino sensors to full-stack web apps, 
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lukkesa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=e10600&icon_color=e10600&text_color=c8c8e0&ring_color=e10600" alt="GitHub stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukkesa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=e10600&text_color=c8c8e0" alt="Top languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-</div>
