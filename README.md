@@ -55,7 +55,7 @@ From Minecraft redstone contraptions to Arduino sensors to full-stack web apps, 
 
 | Project | Description |
 |---|---|
-| [🏎️ F1 Live Dashboard](https://github.com/lukkesa/f1-dashboard) | Real-time F1 race data — HTML/CSS/JS, powered by OpenF1 API |
+| [🏎️ F1 Live Dashboard](https://github.com/lukkesa/f1-stats) | Real-time F1 race data — HTML/CSS/JS, powered by OpenF1 API |
 
 ---
 
@@ -72,7 +72,5 @@ From Minecraft redstone contraptions to Arduino sensors to full-stack web apps, 
 ---
 
 <div align="center">
-
-*"First, solve the problem. Then, write the code."*
 
 </div>
